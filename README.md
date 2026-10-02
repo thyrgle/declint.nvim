@@ -5,6 +5,8 @@ plugin that attaches the built-in LSP client to the `declint` language
 server. Diagnostics and quickfixes from your `.declint.yaml` rules, as
 you type.
 
+<img width="951" height="484" alt="nvimdeclint" src="https://github.com/user-attachments/assets/7e442325-5cd1-4bc5-b58a-b5f03c934430" />
+
 ## Install
 
 **lazy.nvim**
