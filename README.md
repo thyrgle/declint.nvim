@@ -1,5 +1,9 @@
 # declint.nvim
 
+<a href="https://dotfyle.com/plugins/thyrgle/declint.nvim">
+	<img src="https://dotfyle.com/plugins/thyrgle/declint.nvim/shield?style=for-the-badge" />
+</a>
+
 [declint](https://github.com/thyrgle/declint) for Neovim: one small
 plugin that attaches the built-in LSP client to the `declint` language
 server. Diagnostics and quickfixes from your `.declint.yaml` rules, as
